@@ -1,25 +1,34 @@
 # Botswana Health Indicators Dashboard (WHO + Google Trends)
 
-Interactive Public Health Analytics for Botswana 
+# Live Demo
+
+👉 https://botswana-health-dashboard-mhagrtjheyfgl4heyfhvuv.streamlit.app/￼
+
+
+# Interactive Public Health Analytics for Botswana 
 
 Developer: Kago Mhlanga Modiakgotla
 
 # 📝 Overview
 
-The Botswana Health Indicators Dashboard is an interactive analytics tool built with Streamlit that brings together:
-	•	Official WHO Global Health Observatory (GHO) data, and
-	•	Google Search Trends (PyTrends)
+This dashboard tracks Botswana’s key national health indicators using:
+	•	WHO Global Health Observatory (GHO) data
+	•	Live Google Search Trends for public interest signals
+	•	Interactive time-series visualizations
+	•	Automatic trend summaries
+	•	Clean KPI cards (latest value, change vs previous year, percentage change)
 
-to help analyze national health outcomes, long-term trends, and public awareness across a wide range of indicators (HIV, TB, maternal health, infant mortality, suicide, adolescent health, and more).
+It helps stakeholders and analysts understand:
+	•	Disease burden
+	•	Health service coverage
+	•	Temporal trends
+	•	Public awareness signals
+	•	National progress over time
 
-This dashboard supports public health decision-making, research, data storytelling, and health policy communication by combining:
-	•	Hard epidemiological data
-	•	Real-time public search interest
-	•	Automatically generated health narratives
-
+This project sits at the intersection of biology, public health, and data science, aligned with real-world decision-making for Africa’s health sector.
 ⸻
 
- Features
+ # Features
 
  1. # Indicator Trend Analysis (WHO GHO Data)
 	•	Filter by:
@@ -51,33 +60,37 @@ Every indicator receives:
 	•	A Botswana-focused narrative interpreting the trend
 	•	Context for whether rising/falling values are good or bad
 
- 5. Professional Visualizations
+ 5. # Professional Visualizations
 	•	Clean Plotly charts with:
 	•	Unified hover
 	•	Centered titles
 	•	Responsive layout
 	•	High-quality tables and expanded views
 
- 6. Quality-of-Life Features
+ 6. # Quality-of-Life Features
 	•	Reset Filters button
 	•	Session state to remember selections
 	•	Smart defaults for short datasets
+
+ 7. # Streamlit Cloud Deployment
+
+  Runs fully online with no installation required.
 
 ⸻
 
  # Tech Stack
 
 Languages & Libraries
-	•	Python
+	•	Python 3.11
 	•	Pandas
 	•	Plotly
-	•	Streamlit
-	•	PyTrends
 	•	NumPy
+	•	PyTrends
+	•	Streamlit
 
 Tools
 	•	Git / GitHub
-	•	Virtual Environments (venv)
+	•	Streamlit Cloud deployment
 	•	WHO GHO dataset exports
 
 botswana-health-dashboard/
