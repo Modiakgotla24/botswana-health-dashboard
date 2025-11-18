@@ -103,29 +103,31 @@ botswana-health-dashboard/
 
 Below are key screenshots from the Botswana Health Indicators Tracker, showing both WHO indicator trends and live Google Search interest.
 
-###  Tuberculosis – New & Relapse Cases (Botswana)
+---
+
+### 🟦 Tuberculosis – New & Relapse Cases (Botswana)
 
 #### Overview
-![Tuberculosis overview](screenshots/tb_overview.png)
+![Tuberculosis overview](./screenshots/tb_overview.png)
 
 #### Trend Over Time (WHO Indicator)
-![Tuberculosis trend](screenshots/tb_trend.png)
+![Tuberculosis trend](./screenshots/tb_trend.png)
 
 #### Google Search Interest (Botswana)
-![Tuberculosis Google Trends](screenshots/tb_trends_google.png)
+![Tuberculosis Google Trends](./screenshots/tb_trends_google.png)
 
 ---
 
-###  TB Patients with Known HIV Status (%)
+### 🟪 TB Patients with Known HIV Status (%)
 
 #### Overview
-![TB/HIV overview](screenshots/tbhiv_overview.png)
+![TB/HIV overview](./screenshots/tbhiv_overview.png)
 
 #### Trend Over Time (WHO Indicator)
-![TB/HIV trend](screenshots/tbhiv_trend.png)
+![TB/HIV trend](./screenshots/tbhiv_trend.png)
 
 #### Google Search Interest (Botswana)
-![TB/HIV Google Trends](screenshots/tbhiv_trends_google.png)
+![TB/HIV Google Trends](./screenshots/tbhiv_trends_google.png)
 
 ---
 
