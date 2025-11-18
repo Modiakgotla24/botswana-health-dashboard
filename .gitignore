@@ -8,3 +8,4 @@ venv/
 
 .vscode/
 .streamlit.DS_Store
+.DS_Store
